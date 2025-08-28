@@ -72,7 +72,7 @@ Acredito que a combinação de hardware e software é o futuro, e estou sempre e
   <a href="mailto:miguel@mrwlker.top">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/Mrwlker" target="_blank">
+  <a href="https://instagram.com/mr.wlker" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
