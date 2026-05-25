@@ -35,8 +35,6 @@ Pesquisador no LCAD-UFES e estudante de engenharia. Minha atuação foca na conv
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrWlker&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 📫 Contato
